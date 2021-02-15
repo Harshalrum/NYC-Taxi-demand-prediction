@@ -1,5 +1,5 @@
 # New-York-City-Taxi-demand-prediction
-!['New_york_gif'](https://github.com/harshalrum/NYC-Taxi-demand-prediction/blob/master/New_york.gif)
+!['New_york_gif'](https://github.com/Harshalrum/NYC-Taxi-demand-prediction/blob/main/New_york.gif)
 A Machine Learning Case Study to predict the Demand of Yellow Taxi in New York City at given location and at a given time interval.
 
 ## Business Problem/Problem Statement
@@ -36,13 +36,13 @@ You need to have installed following softwares and libraries in your machine bef
 * __dask:__ It is used to handle very large files.
     * i) pip3 install dask
  * Below image shows internal processing structure of dask
-![dask_process](https://github.com/harshalrum/NYC-Taxi-demand-prediction/blob/master/dask_image.png)
+![dask_process](https://github.com/Harshalrum/NYC-Taxi-demand-prediction/blob/main/dask_image.png)
 
 * __folium:__ It is used to plot maps using latitude and longitude.
     * i) pip3 install folium
     * ii) conda install -c conda-forge folium
  * Below image shows usage of folium library for plotting maps
-![folium_demo_image](https://github.com/harshalrum/NYC-Taxi-demand-prediction/blob/master/folium_demo.PNG)
+![folium_demo_image](https://github.com/Harshalrum/NYC-Taxi-demand-prediction/blob/main/folium_demo.PNG)
 
 * __xgboost:__ It is used to make xgboost regression model. 
     * i)  pip3 install xgboost
